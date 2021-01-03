@@ -2,28 +2,28 @@
 Refer to the below files for implementation of corresponding test
 
 ## Unit Testing
-Basic Unit Testing & How To Mock Function Call
-(here)['../src/util/math/index.test.ts']
+Basic Unit Testing & How To Mock Function Call\
+[here](https://github.com/zzkhong/rnTDD/blob/master/src/util/math/index.test.ts)
 
-How to mock API calls
-(here)['../src/util/analytics/index.test.ts']
+How to mock API calls\
+[here](https://github.com/zzkhong/rnTDD/blob/master/src/util/analytics/index.test.ts)
 
 ## Snapshot Testing
-Matching Snapshots (UI Rendering)
-(here)['../src/component/ListInput/ListInput.test.tsx']
+Matching Snapshots (UI Rendering)\
+[here](https://github.com/zzkhong/rnTDD/blob/master/src/component/ListInput/ListInput.test.tsx)
 
-Test Component State Change
-(here)['../src/component/ListInput/ListInput.test.tsx']
+Test Component State Change\
+[here](https://github.com/zzkhong/rnTDD/blob/master/src/component/ListInput/ListInput.test.tsx)
 
 ## Running Async Task (not just mocking)
-How to test useEffect call
-(here)['../src/screen/Home/HomeScreen.test.tsx']
+How to test useEffect call\
+[here](https://github.com/zzkhong/rnTDD/blob/master/src/screen/Home/HomeScreen.test.tsx)
 
 ## Redux Testing
-(here)['../src/screen/Home/HomeScreen.test.tsx']
+[here](https://github.com/zzkhong/rnTDD/blob/master/src/screen/Home/HomeScreen.test.tsx)
 
 ## React Navigation
-(here)['../src/screen/Home/HomeScreen.test.tsx']
+[here](https://github.com/zzkhong/rnTDD/blob/master/src/screen/Home/HomeScreen.test.tsx)
 
 ## Image Loading
 Refer to the moduleNameMapper in jest.config.js file
