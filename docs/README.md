@@ -26,8 +26,8 @@ How to test useEffect call\
 [here](https://github.com/zzkhong/rnTDD/blob/master/src/screen/Home/HomeScreen.test.tsx)
 
 ## Image Loading
-Refer to the moduleNameMapper in jest.config.js file
+Refer to the moduleNameMapper in [jest.config.js](https://github.com/zzkhong/rnTDD/blob/master/jest.config.js) file
 
 ## Generate Code Coverage Report
-Refer to the option collectCoverage: true in jest.config.js
+Refer to the option collectCoverage: true in [jest.config.js](https://github.com/zzkhong/rnTDD/blob/master/jest.config.js)
 You can change it to false when not in used to speed up the test suite running time
