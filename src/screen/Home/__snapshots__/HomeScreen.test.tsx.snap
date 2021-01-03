@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`#1 HomeScreen - Snapshot 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <Text
+    testID="homeScreen_title"
+  >
+    RNTDD
+  </Text>
+  <Text
+    testID="homeScreen_text"
+  >
+    useEffect triggered
+  </Text>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+    testID="homeScreen_detailButton"
+  />
+</RCTSafeAreaView>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`#1 - ListInput Snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFF",
+    }
+  }
+>
+  <Text
+    testID="listInput_text"
+  >
+    
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    rejectResponderTermination={true}
+    testID="listInput_textInput"
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  />
+</View>
+`;
